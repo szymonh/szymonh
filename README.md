@@ -20,4 +20,6 @@ I <3 embedded.
  - [USB Host ParseEPDesc buffer overflow](https://github.com/STMicroelectronics/stm32_mw_usb_host/issues/2)
 
 ### Zephyr
- - [CVE-2021-3625](https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-c3gr-hgvr-f363#advisory-comment-68438)
+ - [CVE-2021-3625](https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-c3gr-hgvr-f363)
+ - [CVE-2021-3835](https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-fm6v-8625-99jf)
+ - [CVE-2021-3861](https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-hvfp-w4h8-gxvj)
