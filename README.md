@@ -11,6 +11,7 @@ I <3 embedded.
 ### Linux
  - [CVE-2021-39685](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-39685)
  - [CVE-2022-25258](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-25258)
+ - [CVE-2022-25375](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-25375)
 
 ### RIOT
  - [CDC ECM buffer overflow](https://github.com/RIOT-OS/RIOT/pull/17200#event-5622771001)
