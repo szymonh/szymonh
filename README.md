@@ -22,6 +22,7 @@ I <3 embedded.
  - [DFU integer underflow](https://github.com/RIOT-OS/RIOT/pull/17128#issuecomment-960561914)
 
 ### STMicroelectronics
+ - [CVE-2021-38541](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-38541)
  - [USB Audio device buffer overflow](https://github.com/STMicroelectronics/stm32_mw_usb_device/issues/5)
  - [USB Host ParseEPDesc buffer overflow](https://github.com/STMicroelectronics/stm32_mw_usb_host/issues/2)
 
