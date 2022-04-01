@@ -13,6 +13,10 @@ I <3 embedded.
  - [CVE-2022-25258](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-25258)
  - [CVE-2022-25375](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-25375)
 
+### Microchip
+- [CVE-2021-37604](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-37604)
+- [CVE-2021-37605](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-37605)
+
 ### RIOT
  - [CDC ECM buffer overflow](https://github.com/RIOT-OS/RIOT/pull/17200#event-5622771001)
  - [DFU integer underflow](https://github.com/RIOT-OS/RIOT/pull/17128#issuecomment-960561914)
