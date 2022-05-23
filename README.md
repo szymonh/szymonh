@@ -1,5 +1,9 @@
 I <3 embedded.
 
+
+### Android
+ - [CVE-2022-20009](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-20009)
+
 ### Azure RTOS
  - [CVE-2021-42301](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-42301)
  - [CVE-2021-42302](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-42302)
@@ -7,6 +11,8 @@ I <3 embedded.
  - [CVE-2021-42304](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-42304)
  - [CVE-2021-42323](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-42323)
  - [CVE-2021-26444](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26444)
+ - [CVE-2022-29223](https://github.com/azure-rtos/usbx/security/advisories/GHSA-2qc5-385m-x862)
+ - [CVE-2022-29246](https://github.com/azure-rtos/usbx/security/advisories/GHSA-hh5p-x584-j8hv)
 
 ### Linux
  - [CVE-2021-39685](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-39685)
