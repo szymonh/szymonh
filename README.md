@@ -14,6 +14,7 @@ I <3 embedded.
  - [CVE-2021-26444](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26444)
  - [CVE-2022-29223](https://github.com/azure-rtos/usbx/security/advisories/GHSA-2qc5-385m-x862)
  - [CVE-2022-29246](https://github.com/azure-rtos/usbx/security/advisories/GHSA-hh5p-x584-j8hv)
+ - [CVE-2022-36063](https://github.com/azure-rtos/usbx/security/advisories/GHSA-chpp-5fv9-6368)
 
 ### Linux
  - [CVE-2021-39685](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-39685)
