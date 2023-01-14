@@ -22,6 +22,7 @@ I <3 embedded.
  - [CVE-2021-39685](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-39685)
  - [CVE-2022-25258](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-25258)
  - [CVE-2022-25375](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-25375)
+ - [CVE-2023-23559](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-23559)
 
 ### Microchip
 - [CVE-2021-37604](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-37604)
