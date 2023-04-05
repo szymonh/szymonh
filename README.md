@@ -4,6 +4,7 @@ I <3 embedded.
 ### Android
  - [CVE-2022-20009](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-20009)
  - [CVE-2022-20227](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-20227)
+ - [CVE-2023-20941](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-20941)
 
 ### Azure RTOS
  - [CVE-2021-42301](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-42301)
