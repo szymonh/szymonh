@@ -17,6 +17,7 @@ I <3 embedded.
  - [CVE-2022-29246](https://github.com/azure-rtos/usbx/security/advisories/GHSA-hh5p-x584-j8hv)
  - [CVE-2022-36063](https://github.com/azure-rtos/usbx/security/advisories/GHSA-chpp-5fv9-6368)
  - [CVE-2022-39293](https://github.com/azure-rtos/usbx/security/advisories/GHSA-gg76-h537-xq48)
+ - [CVE-2022-39343](https://github.com/azure-rtos/filex/security/advisories/GHSA-8jqf-wjhq-4w9f)
  - [CVE-2022-39344](https://github.com/azure-rtos/usbx/security/advisories/GHSA-m9p8-xrp7-vvqp)
 
 ### Linux
